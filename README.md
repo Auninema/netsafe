@@ -1,0 +1,2 @@
+# netsafe
+learn by self
